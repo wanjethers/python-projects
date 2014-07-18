@@ -1,0 +1,13 @@
+print ("Hello person")
+name = input("What is your name?")
+print ("hello " + name)
+quest = input("what is your quest?")
+if quest == "to seek the grail":
+	print("Goood")
+else:
+	print("you die")
+syria = input("What is the capital of Syria?")
+if syria == "Damascus":
+	print("You pass")
+else:
+	print("you die")
